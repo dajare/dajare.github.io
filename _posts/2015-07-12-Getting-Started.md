@@ -1,7 +1,7 @@
 ---
-published: false
+layout: post
+title: Getting Started
 ---
-
 
 This is a fairly minimalist interface, but that's just fine with me.
 
