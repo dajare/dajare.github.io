@@ -1,4 +1,5 @@
 ---
+layout: post
 title: SE Literary Calendar
 ---
 
