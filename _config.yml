@@ -50,7 +50,7 @@ url: https://dajare.github.io/
 baseurl: ""
 
 # remote theme supported: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-remote_theme: poole/lanyon
+remote_theme: Lanyon
 
 #
 # !! You don't need to change any of the configuration flags below !!
