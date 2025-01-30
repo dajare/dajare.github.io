@@ -31,7 +31,6 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
-
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
 disqus:
@@ -49,8 +48,11 @@ url: https://dajare.github.io/
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+# local theme
+theme: jekyll-theme-dinky
+
 # remote theme supported: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-remote_theme: daviddarnes/alembic@main
+# remote_theme: daviddarnes/alembic@main
 
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
